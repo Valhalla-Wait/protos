@@ -1,3 +1,3 @@
-module github.com/Valhalla-Wait/proto
+module github.com/Valhalla-Wait/protos
 
 go 1.24.3
